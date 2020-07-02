@@ -1,3 +1,8 @@
+/*
+Coder:Dhruv Roy Talukdar
+Description:This the main class where a JPanel is created and the sorted is implemented inside a SwingWorker class
+*/
+
 package sortvisualizer;
 
 import java.awt.Color;
