@@ -1,3 +1,8 @@
+/*
+Name:Dhruv Roy Talukdar
+Description:This creates the JFrame for the GUI
+*/
+
 package sortvisualizer;
 
 import javax.swing.JFrame;
